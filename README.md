@@ -2,7 +2,7 @@
 My name is Patrick Paz (aka *Patpa*), i've been studying Computer Science at **UTEC** since 2020. 
 I'am a student of 4th semester and currently i'm learning how to program in C++ and Python.
 
-## Interested in 👍
+## Interests 👍
 - Cryptography
 - Freestyle Master Series
 - Anime *&* manga
