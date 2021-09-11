@@ -1,16 +1,30 @@
-### Hi there 👋
+## Hello world :wave:
+My name is Patrick Paz (aka *Patpa*), i've been studying Computer Science at **UTEC** since 2020. 
+I'am a student of 4th semester and currently i'm learning how to program in C++ and Python.
 
-<!--
-**Patpaz/Patpaz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Interested in 👍
+- Cryptography
+- Freestyle Master Series
+- Anime *&* manga
+- Football
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Random code:
+``` c++
+#include<iostream>
+using namespace std;
+class Name{
+  private:
+    string name;
+    string lsname;
+  public:
+    Name(string name, string lsname):name(name),lsname(lsname){}
+    void show(){
+      cout << "Nombre: " << name << endl;
+      cout << "Apellido: " << lsname << endl;  
+    }
+};
+int main() {
+  Name person("Patrick Giordano", "Paredes Paz");
+  person.show();
+  return 0;
+  }
